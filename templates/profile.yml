@@ -1,0 +1,187 @@
+profile:
+  social_links:
+    - name: Github
+      icon: icon-github-sign
+      link: 'https://github.com/shengyu7697'
+    
+    - name: Facebook
+      icon: icon-facebook-sign
+      link: 'https://www.facebook.com/shengyu0907'
+    
+    - name: Twitter
+      icon: icon-twitter-sign
+      link: 'https://twitter.com/shengyu7697'
+    
+    - name: LinkedIn
+      icon: icon-linkedin-sign
+      link: 'https://www.linkedin.com/in/shengyu-peng-48b664a6'
+
+experience:
+  - name: HTC
+    link: 'http://www.htc.com/tw'
+    logo: htc.png
+    time: Dec 2014 - Present
+    title: Senior Software Engineer
+    description: Work on HTC Vive Focus and Virtual Reality(VR) tracking technology, also co-work with third-party vendor.
+    tags: ['Current', 'Senior', 'Fulltime']
+  
+  - name: PEGATRON
+    link: 'http://cht.pegatroncorp.com'
+    logo: pegatron.png
+    time: Jul 2012 - Nov 2014
+    title: Senior Software Engineer
+    description: Work on DOCSIS 3.0 cable modem and meet the need of customers. Sell cable modem products to cable operators in Europe.
+    tags: ['Senior', 'Fulltime']
+
+education:
+  - name: Tamkang University
+    link: 'http://www.tku.edu.tw/'
+    logo: tku.jpg
+    time: Sep 2009 - Jun 2011
+    title: Master's Degree
+    description: Computer Science
+  
+  - name: Aletheia University
+    link: 'http://www.au.edu.tw/'
+    logo: au.jpg
+    time: Sep 2005 - Jun 2009
+    title: Bachelor's Degree
+    description: Computer Science
+
+projects:
+  - name: Cube3DViewer
+    logo: Cube3DViewer.png
+    time: Since Mar 2018
+    github: 'https://github.com/shengyu7697/Cube3DViewer'
+    description: This is a program that show the position and orientation of cube in 3D scene (C++ version). 
+    tags: ['Open Source', 'C++', 'OpenGL', 'Developing']
+
+  - name: PyCube3DViewer
+    logo: PyCube3DViewer.png
+    time: Since Mar 2018
+    github: 'https://github.com/shengyu7697/PyCube3DViewer'
+    description: This is a program that show the position and orientation of cube in 3D scene.
+    tags: ['Open Source', 'Python', 'PyQt', 'PyOpenGL', 'Developing']
+
+  - name: PyGetMyPublicIP
+    logo: PyGetMyPublicIP.png
+    time: Since Mar 2018
+    github: 'https://github.com/shengyu7697/PyGetMyPublicIP'
+    description: This is a program that get and show your public IP addresses.
+    tags: ['Open Source', 'Python', 'PyQt', 'Crawler']
+
+  - name: PyReportMyIP
+    logo: coming-soon.png
+    time: Since Mar 2018
+    github: 'https://github.com/shengyu7697/PyReportMyIP'
+    description: This is a program that automatically updates the IP addresses to server.
+    tags: ['Open Source', 'Python', 'PyQt', 'Socket', 'Developing']
+
+  - name: ImageFormatConverter
+    logo: ImageFormatConverter.png
+    time: Since Jan 2018
+    github: 'https://github.com/shengyu7697/ImageFormatConverter'
+    description: ImageFormatConverter is a tool that convert image format to another image format.
+    tags: ['Open Source', 'C++', 'Qt']
+
+  - name: IRService
+    logo: no-image.png
+    time: Since Jul 2017
+    github: 'https://github.com/shengyu7697/IRService'
+    description: Infrared service for remote media control.
+    tags: ['Open Source', 'C++']
+
+#  - name: GrepX
+#    logo: cmd.png
+#    time: Since Apr 2016
+#    github: 'https://github.com/shengyu7697/GrepX'
+#    description: You can open matching files of grep by number.
+#    tags: ['Open Source', 'Shell']
+
+#  - name: FindDuplicateFiles
+#    logo: cmd.png
+#    time: Since Mar 2016
+#    github: 'https://github.com/shengyu7697/FindDuplicateFiles'
+#    description: Find the duplicate files. Save hard disk space !
+#    tags: ['Open Source', 'Shell']
+
+#  - name: Cleaner
+#    logo: cmd.png
+#    time: Since Mar 2016
+#    github: 'https://github.com/shengyu7697/Cleaner'
+#    description: Clean specific garbage.
+#    tags: ['Open Source', 'Shell']
+
+  - name: YahooStock
+    logo: coming-soon.png
+    time: Since Feb 2016
+    github: 'https://github.com/shengyu7697/YahooStock'
+    description: Get stock information from yahoo.
+    tags: ['Open Source', 'Python', 'Crawler', 'Developing']
+
+  - name: ScreenCapture
+    logo: ScreenCapture.png
+    website: 'https://shengyu7697.github.io/ScreenCapture/'
+    time: Since Dec 2014
+    github: 'https://github.com/shengyu7697/ScreenCapture'
+    description: ScreenCapture is a tool that can take a screenshot and auto save images.
+    tags: ['Open Source', 'C', 'Visual C++']
+
+  - name: CursorJail
+    logo: CursorJail.png
+    time: Since Dec 2014
+    github: 'https://github.com/shengyu7697/CursorJail'
+    description: CursorJail is a tool that limit your cursor into a rectangle (for windows).
+    tags: ['Open Source', 'C', 'Visual C++']
+
+contributions:
+  - name: opencv
+    link: 'https://github.com/opencv/opencv/commits?author=shengyu7697'
+
+tools:
+  - name: C
+    score: 4.5
+  - name: C++
+    score: 4.5
+  - name: Visual C
+    score: 4.5
+  - name: OpenCV
+    score: 4.3
+  - name: Qt
+    score: 4.3
+  - name: Java
+    score: 4.0
+  - name: Python
+    score: 4.0
+  - name: Javascript
+    score: 3.5
+  - name: HTML / CSS
+    score: 3.5
+
+tags-map:
+  'Fulltime': success
+  'Senior': primary
+  'Current': warning
+  'Open Source': success
+  'Class Project': info
+  'Python': primary
+  'C': primary
+  'C++': primary
+  'Java': primary
+  'SQL': primary
+  'XML': default
+  'YAML': default
+  'Javascript': primary
+  'OpenGL': danger
+  'SQLite': info
+  'Android': success
+  'Qt': info
+  'GTK': info
+  'Web': primary
+  'PyQt': info
+  'PyOpenGL': info
+  'Visual C++': info
+  'Socket': info
+  'Crawler': info
+  'Shell': primary
+  'Developing': danger
