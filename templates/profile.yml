@@ -84,6 +84,13 @@ projects:
     description: ImageFormatConverter is a tool that convert image format to another image format.
     tags: ['Open Source', 'C++', 'Qt']
 
+  - name: MarkerVR
+    logo: no-image.png
+    time: Since Dec 2017
+    github: 'https://github.com/shengyu7697/MarkerVR'
+    description: This is a Marker-based Tracking System for VR/AR Applications.
+    tags: ['Open Source', 'C++', 'OpenCV', 'VR', 'Developing']
+
   - name: IRService
     logo: no-image.png
     time: Since Jul 2017
@@ -162,26 +169,28 @@ tags-map:
   'Fulltime': success
   'Senior': primary
   'Current': warning
+
   'Open Source': success
-  'Class Project': info
-  'Python': primary
   'C': primary
   'C++': primary
   'Java': primary
+  'Python': primary
   'SQL': primary
+  'Javascript': primary
+  'Shell': primary
   'XML': default
   'YAML': default
-  'Javascript': primary
   'OpenGL': danger
+  'OpenCV': danger
   'SQLite': info
   'Android': success
+  'Web': primary
   'Qt': info
   'GTK': info
-  'Web': primary
   'PyQt': info
   'PyOpenGL': info
   'Visual C++': info
   'Socket': info
   'Crawler': info
-  'Shell': primary
   'Developing': danger
+  'VR': warning
