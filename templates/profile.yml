@@ -71,7 +71,7 @@ projects:
     tags: ['Open Source', 'Python', 'PyQt', 'Crawler']
 
   - name: PyReportMyIP
-    logo: coming-soon.png
+    logo: no-image.png
     time: Since Mar 2018
     github: 'https://github.com/shengyu7697/PyReportMyIP'
     description: This is a program that automatically updates the IP addresses to server.
@@ -120,7 +120,7 @@ projects:
 #    tags: ['Open Source', 'Shell']
 
   - name: YahooStock
-    logo: coming-soon.png
+    logo: no-image.png
     time: Since Feb 2016
     github: 'https://github.com/shengyu7697/YahooStock'
     description: Get stock information from yahoo.
