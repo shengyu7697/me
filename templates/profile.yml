@@ -144,6 +144,8 @@ projects:
 contributions:
   - name: opencv
     link: 'https://github.com/opencv/opencv/commits?author=shengyu7697'
+  - name: cvui
+    link: 'https://github.com/Dovyski/cvui/commits?author=shengyu7697'
   - name: icp-opencv
     link: 'https://github.com/abreheret/icp-opencv/commits?author=shengyu7697'
 
