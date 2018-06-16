@@ -49,12 +49,19 @@ education:
     description: Computer Science
 
 projects:
+  - name: QtFileTransfer
+    logo: no-image.png
+    time: Since Apr 2018
+    github: 'https://github.com/shengyu7697/QtFileTransfer'
+    description: QtFileTransfer is a convenient cross-platform tool that transfer file quickly.
+    tags: ['Open Source', 'C++', 'Qt']
+
   - name: Cube3DViewer
     logo: Cube3DViewer.png
     time: Since Mar 2018
     github: 'https://github.com/shengyu7697/Cube3DViewer'
     description: This is a program that show the position and orientation of cube in 3D scene (C++ version). 
-    tags: ['Open Source', 'C++', 'OpenGL', 'Developing']
+    tags: ['Open Source', 'C++', 'OpenGL']
 
   - name: PyCube3DViewer
     logo: PyCube3DViewer.png
