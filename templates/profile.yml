@@ -127,7 +127,7 @@ projects:
 #    tags: ['Open Source', 'Shell']
 
   - name: YahooStock
-    logo: no-image.png
+    logo: YahooStock.png
     time: Since Feb 2016
     github: 'https://github.com/shengyu7697/YahooStock'
     description: Get stock information from yahoo.
