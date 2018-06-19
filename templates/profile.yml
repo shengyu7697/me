@@ -50,7 +50,7 @@ education:
 
 projects:
   - name: QtFileTransfer
-    logo: no-image.png
+    logo: QtFileTransfer.png
     time: Since Apr 2018
     github: 'https://github.com/shengyu7697/QtFileTransfer'
     description: QtFileTransfer is a convenient cross-platform tool that transfer file quickly.
