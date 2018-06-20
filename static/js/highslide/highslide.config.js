@@ -1,4 +1,4 @@
-hs.graphicsDir = '/static/js/highslide/graphics/';
+hs.graphicsDir = 'static/js/highslide/graphics/';
 hs.align = 'center';
 hs.transitions = ['expand', 'crossfade'];
 hs.wrapperClassName = 'dark borderless floating-caption';
