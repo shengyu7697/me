@@ -9,12 +9,12 @@ hs.dimmingOpacity = .75;
 if (hs.addSlideshow) hs.addSlideshow({
   //slideshowGroup: 'group1',
   interval: 5000,
-   repeat: false,
-   useControls: true,
-   fixedControls: 'fit',
-   overlayOptions: {
-     opacity: .6,
-   position: 'bottom center',
-   hideOnMouseOut: true
-   }
+  repeat: false,
+  useControls: true,
+  fixedControls: 'fit',
+  overlayOptions: {
+    opacity: .6,
+    position: 'bottom center',
+    hideOnMouseOut: true
+  }
 });
